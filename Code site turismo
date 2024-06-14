@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Turismo em Veneza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        .nav {
+            overflow: hidden;
+            background-color: #333;
+        }
+        .nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Bem-vindo a Veneza</h1>
+    <p>Descubra a beleza e o charme de uma das cidades mais fascinantes do mundo</p>
+</div>
+
+<div class="nav">
+    <a href="index.html">Início</a>
+    <a href="atracoes.html">Atrações</a>
+    <a href="culinaria.html">Culinária</a>
+</div>
+
+<div class="content">
+    <h2>Sobre Veneza</h2>
+   
+    <p>Veneza é uma cidade no nordeste da Itália e a capital da região do Vêneto. Ela é composta por 118 pequenas ilhas separadas por canais e ligadas por pontes. A cidade e sua lagoa foram declaradas Patrimônio Mundial da UNESCO.</p>
+    <p>Veneza é famosa por sua arte, arquitetura e história. Entre seus destaques estão a Piazza San Marco, a Basílica de San Marco, e a icônica gôndola que navega pelos canais.</p>
+</div>
+
+</body>
+</html>
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Atrações em Veneza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        .nav {
+            overflow: hidden;
+            background-color: #333;
+        }
+        .nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Atrações de Veneza</h1>
+</div>
+
+<div class="nav">
+    <a href="index.html">Início</a>
+    <a href="atracoes.html">Atrações</a>
+    <a href="culinaria.html">Culinária</a>
+</div>
+
+<div class="content">
+    <h2>Lugares Imperdíveis</h2>
+    <ul>
+        <li>
+            <h3>Piazza San Marco</h3>
+            <img src="https://www.tudosobreveneza.com/f/italia/venecia/guia/plaza-san-marcos-m.jpg">
+            <p>A Piazza San Marco é a principal praça pública de Veneza, conhecida por sua impressionante arquitetura e por ser o coração social, religioso e político da cidade.</p>
+        </li>
+        <li>
+            <h3>Basilica di San Marco</h3>
+            <img src="https://cdn4.tuscanynowandmore.com/storage/app/uploads/public/e62/66a/aab/thumb__1920_0_0_0_auto.jpg">
+            <p>A Basílica de São Marcos é a catedral da cidade e um exemplo magnífico da arquitetura bizantina. Ela é famosa por seus mosaicos dourados e pela Pala d'Oro.</p>
+        </li>
+        <li>
+            <h3>Ponte di Rialto</h3>
+            <img src="https://previews.123rf.com/images/haiderali886/haiderali8862306/haiderali886230600970/207194035-romantic-gondola-ride-near-rialto-bridge-venetian-charm-and-serene-waterways.jpg">
+            <p>A Ponte di Rialto é a ponte mais antiga e uma das mais famosas que cruzam o Grande Canal. Ela oferece vistas espetaculares do canal e dos edifícios históricos nas suas margens.</p>
+        </li>
+        <li>
+            <h3>Grande Canal</h3>
+            <img src="https://i0.wp.com/turismo.eurodicas.com.br/wp-content/uploads/2019/04/melhores-lugares-para-se-hospedar-em-veneza-1.jpg?resize=750%2C450&ssl=1" alt="Grande Canal">
+            <p>O Grande Canal é a principal via navegável de Veneza, serpenteando através da cidade e passando por alguns dos edifícios mais magníficos de Veneza. Um passeio de gôndola ou vaporetto pelo canal é imperdível.</p>
+        </li>
+        <li>
+            <h3>Palazzo Ducale</h3>
+            <img src="https://cdn.kastatic.org/ka-perseus-images/e2364abcd4f9c3fe5828c724b11731326f2cecc5.jpg" alt="Palazzo Ducale">
+            <p>O Palácio Ducal é um símbolo do poder e da riqueza de Veneza. Este impressionante edifício gótico serviu como a residência oficial dos doges de Veneza e hoje é um museu aberto ao público.</p>
+        </li>
+    </ul>
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Culinária em Veneza</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        .nav {
+            overflow: hidden;
+            background-color: #333;
+        }
+        .nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Culinária de Veneza</h1>
+</div>
+
+<div class="nav">
+    <a href="index.html">Início</a>
+    <a href="atracoes.html">Atrações</a>
+    <a href="culinaria.html">Culinária</a>
+</div>
+
+<div class="content">
+    <h2>Pratos Típicos</h2>
+    <ul>
+        <li>
+            <h3>Risotto al nero di seppia</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYfQ6nmiVxerUnuJIhUQGwkC96qodGbjC6A&s">
+            <p>Este prato consiste em risoto preparado com tinta de lula, que lhe confere uma cor preta distintiva e um sabor rico e marinho. É uma especialidade local e uma verdadeira experiência gastronômica.</p>
+        </li>
+        <li>
+            <h3>Bigoli in salsa</h3>
+            <img src="data:image/jpeg;base64,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">
+            <p>Bigoli é um tipo de macarrão espesso feito de trigo integral, geralmente servido com um molho de cebola e anchovas. É um prato tradicional simples, mas saboroso.</p>
+        </li>
+        <li>
+            <h3>Sarde in saor</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45BQqmHnkvA52XZCylCLT-DKHci5K8GG4aQ&s">
+            <p>Este prato consiste em sardinhas marinadas em uma mistura de vinagre, cebola, passas e pinhões. É um exemplo perfeito de como a culinária veneziana combina sabores doces e salgados.</p>
+        </li>
+        <li>
+            <h3>Fegato alla veneziana</h3>
+            <img src="data:image/jpeg;base64,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">
+            <p>Fegato alla veneziana é um prato clássico de fígado de vitela cozido com cebolas, vinagre e manteiga. É frequentemente servido com polenta e é um dos pratos mais apreciados da cozinha veneziana.</p>
+        </li>
+        <li>
+            <h3>Tiramisu</h3>
+            <img src="data:image/jpeg;base64,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">
+            <p>Tiramisu é uma famosa sobremesa italiana que consiste em camadas de biscoitos embebidos em café, creme mascarpone e cacau em pó. Embora suas origens sejam disputadas, o tiramisu é um doce amplamente apreciado em Veneza.</p>
+        </li>
+    </ul>
+</div>
